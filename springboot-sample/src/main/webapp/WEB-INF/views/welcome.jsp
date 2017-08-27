@@ -58,8 +58,8 @@
       <div>
               <br>SpringBoot application demo. Current server time: <%= new java.util.Date() %> <br>
               <h3>
-                <span style="color: #333; text-decoration: none">About
-                  Oracle Application Container Cloud</span>
+                <span style="color: #333; text-decoration: none">*** About
+                  Oracle Application Container Cloud ***</span>
               </h3>
               <div>
                 <p>
